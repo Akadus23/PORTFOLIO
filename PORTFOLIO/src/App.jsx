@@ -7,7 +7,7 @@ import Home from './components/Home/Home';
 
 function App() {
   return (
-    <div class=" bg-[#04052E] w-[100vw] h-[100vh] ">
+    <div class=" bg-[#04052E] w-[100vw] h-[100vh] font-days-one">
       <NavBar/>
       <Home/>
     </div>

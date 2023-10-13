@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily:{
+         'days-one':  'Days One, sans-serif'
+      }
+      ,
       backgroundImage: {
         'radial-gradient' : 'radial-gradient(at 47% 33%, hsl(270.67, 81%, 12%) 0, transparent 59%), radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%);'
       }
