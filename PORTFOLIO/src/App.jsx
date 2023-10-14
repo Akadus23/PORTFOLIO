@@ -3,11 +3,12 @@ import './App.css'
 import NavBar from './components/NavBar/NavBar.jsx'
 import { Route, Routes } from "react-router-dom";
 import Home from './components/Home/Home';
+import About from './components/About/About';
 
 
 function App() {
   return (
-    <div class=" bg-[#04052E] w-[100vw] h-[100vh] font-days-one">
+    <div class="font-days-one">
       <NavBar/>
       <Home/>
     </div>

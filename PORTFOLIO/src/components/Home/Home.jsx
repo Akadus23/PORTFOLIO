@@ -22,7 +22,7 @@ export default function Home () {
                 
             </div>
             <div class=" flex flex-col items-center justify-center " >
-                <div class="w-96 h-96 relative">
+                <div class="w-96 h-96 relative ">
                 <div class="w-96 h-96 outline-dashed outline-offset-2 animate-spin outline-[#4400ff] rounded-full bg-cover absolute  bg-right-top  " >
                 </div>
                     <div class="w-96 h-96 rounded-full bg-cover bg-right-top object-cover" style={{ backgroundImage: 'url("/foto2.jpg")' }}>
@@ -35,12 +35,14 @@ export default function Home () {
         </div>
 
     return(
-        <div class="grid grid-cols-[1fr_4fr_1fr] grid-rows-[1fr]  h-[91vh] mt-10" >
-            <Column fondo="bg-transparent"/>
-            <Column fondo="bg-transparent"
-            content={central}
-            />
-            <Column fondo="bg-transparent"/>
+        <div>
+            <div class="grid grid-cols-[1fr_4fr_1fr] grid-rows-[1fr]  h-[91vh] mt-10" >
+                <Column fondo="bg-transparent"/>
+                <Column fondo="bg-transparent"
+                content={central}
+                />
+                <Column fondo="bg-transparent"/>
+            </div>
         </div>
     )
 }
