@@ -4,7 +4,7 @@ import React from "react";
 export default function NavBar(){
 
     return(
-        <header class="fixed top-0 left-0 w-[100%] ">
+        <header class="fixed top-0 left-0 w-[100%] bg-[#140152]/70 backdrop-blur-2xl z-10 border-b-2 border-[#22007C] ">
         <nav class="flex justify-between p-3 max-w-[1300px] my-0 mx-auto">
             <div class=" flex items-center  text-2xl text-white font-extrabold">
                 <p><span class="text-[#ffb703] text-xl">{"<"}</span>Akadus<span class="text-[#ffb703] text-xl">{">"}</span></p>

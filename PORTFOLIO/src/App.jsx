@@ -11,6 +11,7 @@ function App() {
     <div class="font-days-one">
       <NavBar/>
       <Home/>
+      <About/>
     </div>
   )
 }
