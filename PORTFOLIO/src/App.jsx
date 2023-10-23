@@ -4,6 +4,7 @@ import NavBar from './components/NavBar/NavBar.jsx'
 import { Route, Routes } from "react-router-dom";
 import Home from './components/Home/Home';
 import About from './components/About/About';
+import Projects from './components/Projects/Projects';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <NavBar/>
       <Home/>
       <About/>
+      <Projects/>
     </div>
   )
 }
