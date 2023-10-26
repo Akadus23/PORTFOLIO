@@ -18,11 +18,12 @@ export default function About () {
                             <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center hover:scale-110 ease-in duration-150 hover:shadow-md hover:shadow-black " ><img class="h-3/4 w-3/4" src="/src/img/node.png" alt="" ></img> </div>
                             <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center hover:scale-110 ease-in duration-150 hover:shadow-md hover:shadow-black " ><img class="h-3/4 w-3/4" src="/src/img/postgresql.png" alt="" ></img> </div>
                             <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center hover:scale-110 ease-in duration-150 hover:shadow-md hover:shadow-black " ><img class="h-2/4 w-3/4" src="/src/img/tailwind.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center hover:scale-110 ease-in duration-150 hover:shadow-md hover:shadow-black " ><img class="h-3/4 w-3/4" src="/src/img/git.png" alt="" ></img> </div>
                         </div>
                     </div>
 
     return(
-            <section>
+            <section id="about">
                 <div class="grid grid-cols-[1fr_4fr_1fr] grid-rows-[1fr]  h-[91vh] mt-10" >
                     <Column fondo="bg-[#22007C] "/>
                     <Column fondo="bg-[#22007C] " content={central} />

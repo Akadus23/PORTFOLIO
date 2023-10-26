@@ -22,7 +22,7 @@ let rocketSkills = [
 
 
     return (
-        <section>
+        <section id="projects">
             <div class="grid grid-cols-[1fr_4fr_1fr] grid-rows-[1fr] min-h-[91vh] h-auto my-10" >
                 <Column fondo="bg-transparent"/>
                 <div class=" w-full h-full " >
