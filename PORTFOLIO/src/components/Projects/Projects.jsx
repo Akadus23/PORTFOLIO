@@ -28,7 +28,7 @@ let rocketSkills = [
                 <div class=" w-full h-full " >
                     <h1 class="text-3xl text-white" >Projects<span class="text-[#ffb703]">.</span> </h1>
                     <div class="w-full h-auto flex justify-center ">
-                        <div class="flex flex-row flex-wrap justify-center gap-14 mx-24 mt-16 w-[70vh] ">
+                        <div class="flex flex-row flex-wrap justify-start pl-4 gap-14 mx-24 mt-16 w-[70vh] ">
                             <Card
                             id="RocketParts"
                             nombre="Rocketparts"
@@ -76,23 +76,6 @@ let rocketSkills = [
                                 {nombre: "Tailwind",src: "src/img/tailwind.png"}]
                             }
                             />
-                            <Card
-                            id="PokeSearch"
-                            nombre="Rocketparts"
-                            descripcion="Ecommerce enfocado en venta de partes y componentes de computadoras."
-                            fondo="/src/img/rocketparts.jpg"
-                            deploy="https://rocketparts-frontt-ohfz.vercel.app/"
-                            github="https://github.com/Akadus23/ROCKETPARTS-FRONT"
-                            skills={[
-                                {nombre: "JavaScript", src: "/src/img/js.png"},
-                                {nombre: "React",src:  "/src/img/react.png"},
-                                {nombre: "Redux",src: "/src/img/redux.png"},
-                                {nombre: "Node",src: "/src/img/node.png"},
-                                {nombre: "PostgreSQL",src:  "/src/img/postgresql.png"},
-                                {nombre: "Tailwind",src: "src/img/tailwind.png"}]
-                            }
-                            />
-
                         </div>
                     </div>
 

@@ -6,7 +6,7 @@ export default function About () {
     let central =   <div class="grid grid-cols-[1fr] grid-rows-[repeat(2,1fr)] w-full h-full " >
                         <div class="w-full h-full  pt-10 " >
                             <h1 class="text-3xl text-white" >About<span class="text-[#ffb703]" >.</span></h1>
-                            <p class=" text-orange-200 pt-10 text-xl" >My name is Davinson Villamizar, I am a passionate developer who seeks to mix and innovate through his passions: sports, video games and programming. Based in Bogotá, Colombia. I am always looking for new challenges and knowledge. </p>
+                            <p class=" text-slate-300 pt-10 text-xl" >My name is Davinson Villamizar, I am a passionate developer who seeks to mix and innovate through his passions: sports, video games and programming. Based in Bogotá, Colombia. I am always looking for new challenges and knowledge. </p>
                             <h3 class="pt-20 text-xl text-white" >Skills</h3>
                         </div>
                         <div class="w-full h-full flex flex-row justify-evenly items-center pb-10 gap-2">
