@@ -23,12 +23,12 @@ let rocketSkills = [
 
     return (
         <section id="projects">
-            <div class="grid grid-cols-[1fr_4fr_1fr] grid-rows-[1fr] min-h-[91vh] h-auto my-10" >
+            <div class="grid grid-cols-[1fr_4fr_1fr] grid-rows-[1fr] h-auto my-10" >
                 <Column fondo="bg-transparent"/>
                 <div class=" w-full h-full " >
                     <h1 class="text-3xl text-white" >Projects<span class="text-[#ffb703]">.</span> </h1>
                     <div class="w-full h-auto flex justify-center ">
-                        <div class="flex flex-row flex-wrap justify-start pl-4 gap-14 mx-24 mt-16 w-[70vh] ">
+                        <div class="flex flex-row flex-wrap justify-start gap-10 mx-24 mt-16 w-[100vh] ">
                             <Card
                             id="RocketParts"
                             nombre="Rocketparts"
