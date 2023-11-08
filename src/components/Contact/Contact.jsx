@@ -24,11 +24,11 @@ export default function Contact() {
                                 <h1 class="text-3xl text-white pt-10 ">Contact Me<span class="text-[#ffb703] " >.</span> </h1>
                                 <p class="text-slate-300 mt-2" >I'm ready for new challenges, do you dare to meet them with me?</p>
                                 <p class="text-slate-300" > Then leave me a message. ;)</p>
-                                <div class="w-full flex flex-row items-center gap-2 text-white mt-4"><img class="w-8" src="/src/img/correo.png"></img> davilgo23@gmail.com </div>
-                                <div class="w-full flex flex-row items-center gap-2 text-white mt-1"><img class="w-8" src="/src/img/marcador.png"></img> Bogotá, Colombia </div>
+                                <div class="w-full flex flex-row items-center gap-2 text-white mt-4"><img class="w-8" src="/static/img/correo.png"></img> davilgo23@gmail.com </div>
+                                <div class="w-full flex flex-row items-center gap-2 text-white mt-1"><img class="w-8" src="/static/img/marcador.png"></img> Bogotá, Colombia </div>
                                 <div class="flex flex-row mt-4 items-center justify-start gap-4 w-full">
-                                    <button onClick={abrirGithub} class="w-14 h-14 border-2 rounded-md border-[#ffb703] text-[#ffb703] flex items-center justify-center "> <img src="/src/img/github.png" class=" w-8 " ></img> </button>
-                                    <button onClick={abrirLinkedin} class="w-14 h-14 border-2 rounded-md border-[#ffb703] text-[#ffb703] flex items-center justify-center "> <img src="/src/img/linkedin.png" class=" w-8 " ></img> </button>
+                                    <button onClick={abrirGithub} class="w-14 h-14 border-2 rounded-md border-[#ffb703] text-[#ffb703] flex items-center justify-center "> <img src="/static/img/github.png" class=" w-8 " ></img> </button>
+                                    <button onClick={abrirLinkedin} class="w-14 h-14 border-2 rounded-md border-[#ffb703] text-[#ffb703] flex items-center justify-center "> <img src="/static/img/linkedin.png" class=" w-8 " ></img> </button>
                                 </div>
                             </div>
                             <div class="w-full flex flex-col justify-center items-center">

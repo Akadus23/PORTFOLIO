@@ -31,8 +31,8 @@ export default function Card ({id, nombre, descripcion, fondo, skills, github, d
                 }
             </div>
             <div class="flex flex-row justify-center mt-2 gap-4" >
-                <button onClick={abrirGithub} class="w-10 h-10 border-2 rounded-md border-[#ffb703] text-[#ffb703] flex items-center justify-center "><a href={github} target="_blank" ></a> <img src="src/img/github.png" class=" w-6 " ></img> </button>
-                <button onClick={abrirDeploy} class="w-10 h-10 border-2 rounded-md border-[#ffb703] text-[#ffb703] flex items-center justify-center "><a href={deploy}></a> <img src="src/img/flecha.png" class=" w-6 " ></img> </button>
+                <button onClick={abrirGithub} class="w-10 h-10 border-2 rounded-md border-[#ffb703] text-[#ffb703] flex items-center justify-center "><a href={github} target="_blank" ></a> <img src="/static/img/github.png" class=" w-6 " ></img> </button>
+                <button onClick={abrirDeploy} class="w-10 h-10 border-2 rounded-md border-[#ffb703] text-[#ffb703] flex items-center justify-center "><a href={deploy}></a> <img src="/static/img/flecha.png" class=" w-6 " ></img> </button>
             </div>
         </div>
     )

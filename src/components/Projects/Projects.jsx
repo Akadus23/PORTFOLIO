@@ -27,47 +27,47 @@ let central = <>
                             id="RocketParts"
                             nombre="Rocketparts"
                             descripcion="Ecommerce enfocado en venta de partes y componentes de computadoras."
-                            fondo="src/img/rocketparts.jpg"
+                            fondo="/static/img/rocketparts.jpg"
                             deploy="https://rocketparts-frontt-ohfz.vercel.app/"
                             github="https://github.com/Akadus23/ROCKETPARTS-FRONT"
                             skills={[
-                                {nombre: "JavaScript", src: "src/img/js.png"},
-                                {nombre: "React",src:  "src/img/react.png"},
-                                {nombre: "Redux",src: "src/img/redux.png"},
-                                {nombre: "NodeJS",src: "src/img/node.png"},
-                                {nombre: "PostgreSQL",src:  "src/img/postgresql.png"},
-                                {nombre: "Tailwind",src: "src/img/tailwind.png"}]
+                                {nombre: "JavaScript", src: "/static/img/js.png"},
+                                {nombre: "React",src:  "/static/img/react.png"},
+                                {nombre: "Redux",src: "/static/img/redux.png"},
+                                {nombre: "NodeJS",src: "/static/img/node.png"},
+                                {nombre: "PostgreSQL",src:  "/static/img/postgresql.png"},
+                                {nombre: "Tailwind",src: "/static/img/tailwind.png"}]
                             }
                             />
                             <Card
                             id="All Market"
                             nombre="All Market"
                             descripcion="Ecommerce de productos variados."
-                            fondo="src/img/allmarket.jpg"
+                            fondo="/static/img/allmarket.jpg"
                             deploy="https://e-commerce-front-alpha.vercel.app/home"
                             github="https://github.com/Akadus23/E-COMMERCE-FRONT"
                             skills={[
-                                {nombre: "JavaScript", src: "src/img/js.png"},
-                                {nombre: "React",src:  "src/img/react.png"},
-                                {nombre: "Redux",src: "src/img/redux.png"},
-                                {nombre: "Node",src: "src/img/node.png"},
-                                {nombre: "PostgreSQL",src:  "src/img/postgresql.png"}]
+                                {nombre: "JavaScript", src: "/static/img/js.png"},
+                                {nombre: "React",src:  "/static/img/react.png"},
+                                {nombre: "Redux",src: "/static/img/redux.png"},
+                                {nombre: "Node",src: "/static/img/node.png"},
+                                {nombre: "PostgreSQL",src:  "/static/img/postgresql.png"}]
                             }
                             />
                             <Card
                             id="Koalaxy"
                             nombre="Koalaxy"
                             descripcion="Ecommerce de distribución digital de videojuegos."
-                            fondo="src/img/koalaxy.jpg"
+                            fondo="/static/img/koalaxy.jpg"
                             deploy="https://koalaxy-app-xmxs.vercel.app/"
                             github="https://github.com/Koalaxy-PF/PF_VIDEOGAMES"
                             skills={[
-                                {nombre: "JavaScript", src: "src/img/js.png"},
-                                {nombre: "React",src:  "src/img/react.png"},
-                                {nombre: "Redux",src: "src/img/redux.png"},
-                                {nombre: "Node",src: "src/img/node.png"},
-                                {nombre: "PostgreSQL",src:  "src/img/postgresql.png"},
-                                {nombre: "Tailwind",src: "src/img/tailwind.png"}]
+                                {nombre: "JavaScript", src: "/static/img/js.png"},
+                                {nombre: "React",src:  "/static/img/react.png"},
+                                {nombre: "Redux",src: "/static/img/redux.png"},
+                                {nombre: "Node",src: "/static/img/node.png"},
+                                {nombre: "PostgreSQL",src:  "/static/img/postgresql.png"},
+                                {nombre: "Tailwind",src: "/static/img/tailwind.png"}]
                             }
                             />
                         </div>

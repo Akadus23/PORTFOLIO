@@ -10,15 +10,15 @@ export default function About () {
                             <h3 class="pt-20 text-xl text-white" >Skills</h3>
                         </div>
                         <div class="w-full h-full flex flex-row justify-evenly items-center pb-10 gap-2">
-                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="src/img/html.png" alt="" ></img> </div>
-                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="src/img/css.png" alt="" ></img> </div>
-                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="src/img/js.png" alt="" ></img> </div>
-                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="src/img/react.png" alt="" ></img> </div>
-                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="src/img/redux.png" alt="" ></img> </div>
-                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="src/img/node.png" alt="" ></img> </div>
-                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="src/img/postgresql.png" alt="" ></img> </div>
-                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-2/4 w-3/4" src="src/img/tailwind.png" alt="" ></img> </div>
-                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="src/img/git.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="/static/img/html.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="/static/img/css.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="/static/img/js.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="/static/img/react.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="/static/img/redux.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="/static/img/node.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="/static/img/postgresql.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-2/4 w-3/4" src="/static/img/tailwind.png" alt="" ></img> </div>
+                            <div class="w-[130px] h-[130px] shadow-inner shadow-black  border-[#120b2a] rounded-[10px] bg-[#2902AC] flex items-center justify-center  " ><img class="h-3/4 w-3/4" src="/static/img/git.png" alt="" ></img> </div>
                         </div>
                     </div>
 
