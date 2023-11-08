@@ -26,7 +26,7 @@ export default function Home() {
                 <div class="w-96 h-96 relative ">
                     <div class="w-96 h-96 outline-dashed outline-offset-2 animate-spin outline-[#4400ff] rounded-full bg-cover absolute  bg-right-top  " >
                     </div>
-                    <div class="w-96 h-96 rounded-full bg-cover bg-center " style={{ backgroundImage: 'url("/src/img/foto3.jpeg")' }}>
+                    <div class="w-96 h-96 rounded-full bg-cover bg-center " style={{ backgroundImage: 'url("src/img/foto3.jpeg")' }}>
 
                     </div>
 
