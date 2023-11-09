@@ -26,7 +26,7 @@ let central = <>
                             <Card
                             id="RocketParts"
                             nombre="Rocketparts"
-                            descripcion="Ecommerce enfocado en venta de partes y componentes de computadoras."
+                            descripcion="An Ecommerce focused on the sale of computer parts and components."
                             fondo="/static/img/rocketparts.jpg"
                             deploy="https://rocketparts-frontt-ohfz.vercel.app/"
                             github="https://github.com/Akadus23/ROCKETPARTS-FRONT"
@@ -42,7 +42,7 @@ let central = <>
                             <Card
                             id="All Market"
                             nombre="All Market"
-                            descripcion="Ecommerce de productos variados."
+                            descripcion="Ecommerce of assorted products."
                             fondo="/static/img/allmarket.jpg"
                             deploy="https://e-commerce-front-alpha.vercel.app/home"
                             github="https://github.com/Akadus23/E-COMMERCE-FRONT"
@@ -57,7 +57,7 @@ let central = <>
                             <Card
                             id="Koalaxy"
                             nombre="Koalaxy"
-                            descripcion="Ecommerce de distribución digital de videojuegos."
+                            descripcion="Ecommerce for the digital distribution of video games."
                             fondo="/static/img/koalaxy.jpg"
                             deploy="https://koalaxy-app-xmxs.vercel.app/"
                             github="https://github.com/Koalaxy-PF/PF_VIDEOGAMES"
