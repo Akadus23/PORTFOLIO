@@ -33,8 +33,10 @@ export default function Contact() {
                             </div>
                             <div class="w-full flex flex-col justify-center items-center">
                                 <div class="bg-[#140152] w-2/3 h-2/3 rounded-lg border-[#450DFD] border-2 ">
+                                    <div class="mb-4 mt-2">
+                                        
                                     <form action="https://formsubmit.co/davilgo23@gmail.com" method="POST">
-                                        <div class="flex flex-col mx-4 mt-4 gap-1" >
+                                        <div class="flex flex-col mx-4 gap-1" >
                                             <label class="text-white" for="name">Name:</label>
                                             <input class="rounded-md caret-[#ffb703] border-[#450DFD] border-2 bg-[#22007C] h-8 focus:border-[#ffb703] focus:outline-none pl-1 text-slate-300 text-sm" placeholder="Name" required type="text" name="name" id="name"></input>
                                         </div>
@@ -47,8 +49,9 @@ export default function Contact() {
                                             <textarea  class="rounded-md caret-[#ffb703] resize-none border-[#450DFD] border-2 bg-[#22007C] focus:border-[#ffb703] focus:outline-none pl-1 text-slate-300 text-sm" placeholder="Message" required name="message" id="message" rows="8"></textarea>
                                         </div>
                                         <input type="hidden" name="_captcha" value="false"></input>
-                                        <button type="submit" class=" bg-[#450DFD] h-10 w-11/12 rounded-md text-white text-xl mx-4">Send</button>
+                                        <button type="submit" class=" bg-[#450DFD] h-10 w-11/12 rounded-md text-white text-xl mx-4 hover:scale-[1.03] hover:ease-in">Send</button>
                                     </form>
+                                    </div>
                                 </div>
 
                             </div>
